@@ -3,4 +3,4 @@ channels:
 dependencies:
 - python
 - pyiron_atomistics
-- lammps
+- lammps=2021.07.30=py37h71a0db9_openmpi_2
