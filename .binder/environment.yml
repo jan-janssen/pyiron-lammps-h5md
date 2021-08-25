@@ -2,5 +2,5 @@ channels:
 - conda-forge
 dependencies:
 - python
-- pyiron_atomistics =0.2.15
-- lammps =2021.07.30=py37hfb68519_openmpi_2
+- pyiron_atomistics
+- lammps
